@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\zacha\OneDrive - SNHU\CS-300\repos\Courses\Courses\Main.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zacha\OneDrive - SNHU\CS-300\repos\Courses\Courses\Main.cpp(89,27): warning C4018: '<': signed/unsigned mismatch
+  Courses.vcxproj -> C:\Users\zacha\OneDrive - SNHU\CS-300\repos\Courses\Debug\Courses.exe
